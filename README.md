@@ -1,4 +1,4 @@
-# World-Wide-Importers-analysis
+# World-Wide-Importers-Analysis
 First Project with Power BI
 
 # 📊 Item Sales Report – Project Summary
